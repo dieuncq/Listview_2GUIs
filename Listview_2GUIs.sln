@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listview_2GUIs", "Listview_2GUIs.csproj", "{315CB8EB-D20D-4BA9-8814-21DCF428BEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315CB8EB-D20D-4BA9-8814-21DCF428BEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315CB8EB-D20D-4BA9-8814-21DCF428BEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315CB8EB-D20D-4BA9-8814-21DCF428BEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315CB8EB-D20D-4BA9-8814-21DCF428BEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24583A80-00C1-416E-B2B8-7B74532689D2}
+	EndGlobalSection
+EndGlobal
