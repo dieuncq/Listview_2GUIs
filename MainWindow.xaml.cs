@@ -46,6 +46,5 @@ namespace Listview_2GUIs
     public class Lv1st
     {
         public string s_Name="";
-        public int i_Age;
     }
 }
